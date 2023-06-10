@@ -1,0 +1,19 @@
+{
+  "primary": "#b4beee",
+  "secondary": "#94e2d5",
+  "tertiary": "#89b4ef",
+  "quartenary": "#c18ac6",
+  "quinary": "#6ca2c5",
+  "background": "#120d17",
+  "foreground": "#edecee",
+  "selection": "#523b6b",
+  "cursor": "#a288de",
+  "black": "#3d3d3d",
+  "red": "#f38ba8",
+  "green": "#94e2d5",
+  "yellow": "#f9e2af",
+  "blue": "#74c7ec",
+  "magenta": "#b4beee",
+  "cyan": "#6ca2c5",
+  "white": "#edecee"
+}
