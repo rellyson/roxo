@@ -30,10 +30,10 @@ All the palette colors can be found below:
     <td><code>(148, 226, 213)</code></td>
  </tr>
  <tr>
-    <td><img src="https://placeholder.pics/svg/20x20/89b4ef" /></td>
+    <td><img src="https://placeholder.pics/svg/20x20/f7baa2" /></td>
     <td>Tertiary</td>
-    <td><code>#89b4ef</code></td>
-    <td><code>(137, 180, 239)</code></td>
+    <td><code>#F7BAA2</code></td>
+    <td><code>(247, 186, 162)</code></td>
  </tr>
  <tr>
     <td><img src="https://placeholder.pics/svg/20x20/120d17" /></td>
@@ -109,3 +109,10 @@ All the palette colors can be found below:
     <td><code>(237, 236, 238)</code></td>
  </tr>
 </table>
+
+## Apps theme/scheme
+
+Roxo is available for the following apps:
+
+- [Alacritty](./resources/alacritty/README.md)
+- [Gnome terminal](./resources/gnome-terminal/README.md)
